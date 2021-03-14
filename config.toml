@@ -1,4 +1,4 @@
-baseURL = "http://round2.anich003.me"
+baseURL = "/"
 languageCode = "en-us"
 title = "Round 2 of Hugo"
 theme = "contrast-hugo"
