@@ -1,7 +1,7 @@
 ---
 title: "Deploying on Digital Ocean"
 date: 2021-03-13T16:07:58-08:00
-draft: true
+draft: false
 ---
 
 1. Pay my digital ocean bills (oops)
