@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Round 2 of Hugo</title>
+    <title>Posts on Aaron&#39;s Hugo Site</title>
     <link>/posts/</link>
-    <description>Recent content in Posts on Round 2 of Hugo</description>
+    <description>Recent content in Posts on Aaron&#39;s Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Mar 2021 15:20:19 -0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Mar 2021 16:07:58 -0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deploying on Digital Ocean</title>
+      <link>/posts/deploying-on-digital-ocean/</link>
+      <pubDate>Sat, 13 Mar 2021 16:07:58 -0800</pubDate>
+      
+      <guid>/posts/deploying-on-digital-ocean/</guid>
+      <description>Steps  Pay my digital ocean bills (oops) Set up GitHub repository Use DigitalOcean App feature to link up to GitHub repo  Starter package lets you deploy up to 3 static sites for free Deploy from GitHub, custom domain, and automatic https   Set up domain as round2.anich003.me (let DigitalOcean manage domain &amp;amp; nameservers)  Notes This was technically easy mode deployment since I didn&amp;rsquo;t have to fuss with building the site locally and uploading files to a machine that is hosting a webserver.</description>
+    </item>
+    
     <item>
       <title>Introduction to Hugo and Static Site Generation</title>
       <link>/posts/introduction/</link>
