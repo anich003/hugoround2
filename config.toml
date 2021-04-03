@@ -1,5 +1,5 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Aaron's Hugo Site"
+title = "Aaron's Blog"
 theme = "contrast-hugo"
 enableEmoji = true
